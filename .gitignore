@@ -35,3 +35,6 @@ yarn-error.log*
 
 # Protheus
 totvs*
+totvsls_out.log
+totvsls_in.log
+totvsls.log
