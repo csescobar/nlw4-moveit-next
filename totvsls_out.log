@@ -60,19 +60,7 @@ Content-Length: 128
 
 Content-Length: 677
 
-{"jsonrpc":"2.0","id":3,"result":{"connectionToken":"djM6bjJ3Z2tnZTg3bGtsd2NrcjYyMWxwYzI1MXRsams6MTp6ZDZqeHotcHJkLXByb3RoZXVzLnRvdHZzY2xvdWQuY29tLmJyOjIwMDE6MTo3LjAwLjE5MTIwNVA6Mw==:djE6emQ2anh6OmFkbWluOnBFMXJYYytPdkNyYmo4YXgzR25IQU5wdDRWL0piaVlaVlpMdndtdmY1U3M9|djI6MTYxNTQ4NzU1MTowOjE6MQ==.kajog1Ne11qx0twyezVODOTdruWwGbmweMQ5o02IVb5P9Ns1ZefZF+XEM4wNGs7MNdYlnGMdM3CMODNVCHwzeG9jT56SpSAMJdmp1ezeYedUXqxSzQ2gR2SEEKaODwaBix30CoteKrwyz+M4htXrjAhHYO3KRjr4NJVhPn8pZLW0pSLJS2qRsdlIQoaRXCpbp0rjlVL5wl+9x/StxzV0f7FmsLbkUbqe7BtUS2Ifvi2aIz/UrE0FHlPeFQ6mmep/QsbjAsc54VeU9TMbemwTdWl98ygMOzwqFK3yboHgGkM7Yq5cOHnOc/jF+zrvFP2dHdQfu/zqYCz2oHINVc6iEQ==","environment":"zd6jxz","user":"admin"}}
-
-Content-Length: 157
-
-{"jsonrpc":"2.0","method":"$totvsserver/progress","params":{"indexRequestCount":0,"doIdMapCount":0,"onIdMappedCount":0,"onIndexedCount":0,"activeThreads":0}}
-
-Content-Length: 157
-
-{"jsonrpc":"2.0","method":"$totvsserver/progress","params":{"indexRequestCount":0,"doIdMapCount":0,"onIdMappedCount":0,"onIndexedCount":0,"activeThreads":0}}
-
-Content-Length: 38
-
-{"jsonrpc":"2.0","id":4,"result":null}
+{"jsonrpc":"2.0","id":3,"result":{"connectionToken":"djM6bjJ3Z2tnZTg3bGtsd2NrcjYyMWxwYzI1MXRsams6MTp6ZDZqeHotcHJkLXByb3RoZXVzLnRvdHZzY2xvdWQuY29tLmJyOjIwMDE6MTo3LjAwLjE5MTIwNVA6Mw==:djE6emQ2anh6OmFkbWluOnBFMXJYYytPdkNyYmo4YXgzR25IQU5wdDRWL0piaVlaVlpMdndtdmY1U3M9|djI6MTYxNTgzMDM3NTowOjE6MQ==.V5cXNCyFMkSYaqWY6Im6LtF+MtMdayRFOuANKln2IA4qx1/NjCJqB5c1QFHAcfQkxkdzG4GJSc7eCtTnfcn0Zfge9GZL22HO/1tE1GBy37lR//YXgNcTp1NYUp3NZAk5iwGz+1+61z585kdZMvl+jVseauPcT7556v/a02CfRS1Gf4Hx7pd53M3f0bx7cCXN9BeFfzEQQjXXcHqCMGuVGt1FsnyQ1J8d/btkpdVLcnvgXTTAGnJ9ttsSU0tFxhDPLDialvBRBlrJ2Dd8IYE0sw258mKdlKltT1bb+yEDnN4TJvCFj2+H2B4/bHXpZp3lKTQ26txvqY8VoauuhddKWg==","environment":"zd6jxz","user":"admin"}}
 
 Content-Length: 157
 
